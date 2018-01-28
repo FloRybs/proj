@@ -4,6 +4,6 @@
 // funkcja main
 
 fun main(args: Array<String>) {
-    println("cześć")
+    println("nohej")
 }
 
